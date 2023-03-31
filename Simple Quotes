@@ -80,11 +80,11 @@ function dispalyQuote(){
         setTimeout(dispalyWidget, quotes.length*INTERVAL);
     }
     dispalyWidget()
+    
+theme: minima
 
 </script>
 
 </body>
 </html>
 
-
-theme: minima
