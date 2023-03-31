@@ -81,7 +81,7 @@ function dispalyQuote(){
     }
     dispalyWidget()
     
-theme: minima
+theme: Modernist
 
 </script>
 
